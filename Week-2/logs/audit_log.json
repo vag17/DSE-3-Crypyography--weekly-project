@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2026-09-27 12:11:11",
+        "event": "Genesis Entry - Start of Audit Log",
+        "user": "SYSTEM",
+        "previous_hash": "GENESIS",
+        "hash": "2cde03bad32f26b1e698cd5e0a8314c380b909d65ccb3b48b18621a1132f9211"
+    },
+    {
+        "id": 2,
+        "timestamp": "2026-09-27 12:12:41",
+        "event": "User logged into the system",
+        "user": "vageesha",
+        "previous_hash": "2cde03bad32f26b1e698cd5e0a8314c380b909d65ccb3b48b18621a1132f9211",
+        "hash": "eaeca832e06ba8962675d836e25b6f179a7d5e5fabac1bc8e419ba7a0beb90ab"
+    },
+    {
+        "id": 3,
+        "timestamp": "2026-09-27 12:13:24",
+        "event": "File accessed: report.docx",
+        "user": "admin",
+        "previous_hash": "eaeca832e06ba8962675d836e25b6f179a7d5e5fabac1bc8e419ba7a0beb90ab",
+        "hash": "ad772e58d1efae581d79c8a0e40d102da776208a5d30f9068a161adb3fb2f676"
+    }
+]

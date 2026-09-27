@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated keys (never commit real keys!)
+keys/*.pem
+
+# Generated signatures
+signatures/*.bin
+
+# Output files
+output/*
+
+# Keep folder structure in git
+!keys/.gitkeep
+!signatures/.gitkeep
+!output/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

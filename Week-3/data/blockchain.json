@@ -1,0 +1,37 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2026-09-27T12:35:00.591694",
+        "data": "Genesis Block",
+        "previous_hash": "0",
+        "hash": "1dab897cddc05cb2f30b7d902211f8cc17ddc60daaf54bb182f1be2ffe75f097"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-09-27T12:35:00.591747",
+        "data": "DID Created: did:local:e9b00fc2076d0af3094cd6881c59ab46f5327ab3bd64aea17fc8144925b805d3",
+        "previous_hash": "1dab897cddc05cb2f30b7d902211f8cc17ddc60daaf54bb182f1be2ffe75f097",
+        "hash": "159b2735c40b70a6cc1cc3774d2bbacd85f93c9f1cc3cdd3a11ad564a9f854b2"
+    },
+    {
+        "index": 2,
+        "timestamp": "2026-09-27T12:35:30.827470",
+        "data": "Credential Issued: vageesha (196)",
+        "previous_hash": "159b2735c40b70a6cc1cc3774d2bbacd85f93c9f1cc3cdd3a11ad564a9f854b2",
+        "hash": "bc56f594125f06803441b7ff6428f4512297f6bd0d5ebc32d5a5303cf5244245"
+    },
+    {
+        "index": 3,
+        "timestamp": "2026-09-27T12:36:12.018381",
+        "data": "DID Created: did:local:89d4af7b8568c667e38944b110d0628522e90ec7da1a987e6d8585b6b0f4eadc",
+        "previous_hash": "bc56f594125f06803441b7ff6428f4512297f6bd0d5ebc32d5a5303cf5244245",
+        "hash": "dbbc932047ca2c1c819609baa8d1e97a7dacc63f24adb8f050053ab0d066078f"
+    },
+    {
+        "index": 4,
+        "timestamp": "2026-09-27T12:36:12.064254",
+        "data": "Credential Issued: Rahul Sharma (BCA001)",
+        "previous_hash": "dbbc932047ca2c1c819609baa8d1e97a7dacc63f24adb8f050053ab0d066078f",
+        "hash": "e2f32f80659ac2444fae47c6670d0a692a09755536a7a5784fb1919b62572f5a"
+    }
+]

@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+# Protect private key material
+keys/*.pem
+!keys/.gitkeep

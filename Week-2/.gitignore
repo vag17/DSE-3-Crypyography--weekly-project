@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# NOTE:
+# We deliberately do NOT ignore logs/audit_log.json, evidence/, or
+# output/forensic_report.txt. These files are part of the live
+# demonstration (the audit log itself, tamper-demo backups, and the
+# forensic report), so they should stay visible and trackable rather
+# than being hidden by git.

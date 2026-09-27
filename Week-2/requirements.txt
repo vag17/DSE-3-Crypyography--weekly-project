@@ -1,0 +1,12 @@
+# No external packages are required for this project.
+#
+# This project only uses Python's built-in standard library modules:
+#   - hashlib  (SHA-256 hashing)
+#   - json     (reading/writing the audit log file)
+#   - os       (creating folders, checking file paths)
+#   - shutil   (backup/restore of the audit log)
+#   - datetime (timestamps)
+#
+# Since these all come bundled with Python 3.x, there is nothing to
+# install. You can still run "pip install -r requirements.txt" safely
+# -- it will simply install nothing.
